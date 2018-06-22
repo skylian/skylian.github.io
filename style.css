@@ -1,0 +1,42 @@
+body {
+	font-family: georgia;
+	font-size: 90%;
+	background-color: white;
+	color: black;
+}
+
+h1 {
+	font-size: x-large;
+}
+
+h2 {
+	font-size: large;
+}
+
+#papers li {
+	margin-bottom: 0.3em;
+	margin-left: 0em;
+	padding-left: 0em;
+}
+
+a {
+	color: brown;
+	text-decoration: none;
+}
+
+em.topic {
+	color: blue
+	text-decoration: none;
+}
+
+.tba {
+	color: #666666;
+	text-decoration: none;
+}
+
+.topic {
+  color: black;
+  text-decoration: bold;
+}
+-->
+</style>
